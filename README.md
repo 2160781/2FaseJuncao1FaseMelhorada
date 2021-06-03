@@ -1,4 +1,5 @@
-# SplashScreen3.2.1.1
+# 2FaseJuncao1FaseMelhorada
+
 Navegação através da utilização de "switch case", esta spike permite ao utilzador efetuar diversas funcionalidades através da utilização das "setas" e do botão ENTER.
 --> DPAD_UP = Não efetua nada
 --> DPAD_DOWN = Apresentação de um texto de manutenção
